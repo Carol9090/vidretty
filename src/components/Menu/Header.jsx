@@ -9,7 +9,7 @@ function Header(){
       <img src={Logo} className='img'/>
       <ul className="nav__menu">
 
-    <b/>  <li className="nav__item"><a href="#" className="nav__link">HOME</a></li>  
+    <b/>  <li className="nav__item"><a href="#" className="nav__link">home</a></li>  
             
        <li className="nav__item"><a href="#" className="nav__link">DÚVIDAS</a></li>
 
